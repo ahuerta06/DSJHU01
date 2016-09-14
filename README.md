@@ -43,4 +43,21 @@ All the best!
 
 ## Challenge Session 04 - August 31th, 2016
 
+#### Leaderboard
+| Names         | Points | 
+| ------------- | ------:|
+| Angel H.      |     41 |
+| Paulo F.      |     27 |
+| Eduardo P.    |     19 |
+| Hector L.     |      2 |
+| Alberto C.    |      1 |
+| Emilio B.     |      1 |
+| Hector H.     |      1 |
+| Jorge B.      |      1 |
+| Jose A.       |      1 |
+| Jose Luis M.  |      1 |
+| Saul C.       |      1 |
+
+## Challenge Session 05 - September 14th, 2016
+
 TBD
